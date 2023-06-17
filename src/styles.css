@@ -1,0 +1,24 @@
+.container {
+  margin: auto;
+  max-width: 768px;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.text-white {
+  color: white;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+#hotspots-container {
+  font-size: 2em;
+}
